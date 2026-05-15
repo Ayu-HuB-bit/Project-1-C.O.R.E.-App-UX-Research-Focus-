@@ -4,3 +4,4 @@ To design a platform that helps students overcome social anxiety and the fear of
  * User Surveys/Interviews: Conducting dirst interviews and surveys with students to understand the specific barriers to social interaction on campus.
  * Data Analysis: Analyzing the verdict from these surveys to identify a probable solution that balances user privacy with social networking.
  * Problem Definition: identified that many students feel a "critical problem" involving shyness and fear when trying to connect with new people.
+* using Miro as our designing program.
