@@ -1,33 +1,33 @@
-C.O.R.E. App - Medical Interaction Design & Mixed-Methods Usability Study
+C.O.R.E. App - Healthcare Interaction Design & Usability Case Study
 
 ## 📋 Project Overview
-The C.O.R.E. App is a mobile healthcare interaction design project engineered to streamline patient-to-clinic workflows. Designed as a centralized medical interface, the platform serves users requiring rapid healthcare logistics, including real-time biometric status tracking, clinic proximity mapping, and immediate urgent care scheduling. 
+The C.O.R.E. App is a mobile healthcare concept designed to connect patients with local medical care quickly and cleanly. Built as an interactive prototype, the application helps users manage high-stress logistics like tracking health metrics, finding nearby clinics on a live map, and instantly scheduling urgent care appointments. 
 
-The primary objective of this study was to systematically optimize the mobile interface using both quantitative metrics and qualitative behavioral observations to eliminate critical user navigation friction.
-
----
-
-## 🔬 Core Usability & Behavioral Research Frameworks Applied
-Rather than relying on subjective design choices, the interface layout and user flows were evaluated against formal human-computer interaction (HCI) standards:
-
-### 1. The Three Usability Pillars Matrix
-To ensure the healthcare application serves high-stress users efficiently, we systematically measured performance against the industry-standard usability criteria:
-* Effectiveness: Tracked and quantified user task-completion rates across core tasks to verify if the interface structure prevents catastrophic user errors.
-* Efficiency: Documented the operational velocity, navigation speed, and total physical tap-counts required for users to view critical medical statuses, optimizing the layout to reduce interaction time.
-* Satisfaction: Captured raw qualitative feedback and user sentiment post-interaction to measure overall user comfort, interface trust, and ease of use.
-
-### 2. High-Hygiene Survey Instrumentation & Data Analytics
-To validate user satisfaction without corrupting our dataset, we engineered post-test questionnaires utilizing balanced **Likert Scales**. Every survey prompt was audited against standard research bias traps:
-* Elimination of Double-Barreled Prompts: Ensured every question isolated a single interface element (e.g., testing *only* button readability or *only* button placement, never both at once).
-* Leading Syntax Mitigation: Structured questions neutrally to prevent framing bias, ensuring users provided objective feedback regarding their navigation experience.
-* Qualitative vs. Quantitative Triangulation: Balanced quantitative data (task timing, survey scores) with qualitative data (observing user hesitation markers) to discover the exact psychological "why" behind user drop-offs.
+The main goal of this project was to test and improve the user experience, using a mix of direct user feedback and performance metrics to make sure the interface is intuitive and stress-free.
 
 ---
 
-## 🛠️ Research Operations & Progression Lifecycle
-The development and research phases of the C.O.R.E. App followed a strict corporate user research sprint timeline:
+## 🔬 Core Usability & User Psychology Principles Applied
+To make sure the design was backed by actual user behavior rather than guesswork, the platform was built and evaluated using standard human-computer interaction (HCI) practices:
 
-1.  Scoping & Objectives: Aligned user workflows with critical healthcare constraints, establishing clear baseline usability hypotheses.
-2.  Protocol & Screener Formulation: Targeted participant screening documents and formulated step-by-step interactive task matrices.
-3.  Moderated Usability Testing: Executed live user test sessions utilizing the **Think-Aloud Protocol**, allowing users to express their cognitive workflows in real time without investigator interference.
-4.  Three-Dimensional Severity Triaging: Discovered interface bottlenecks were cataloged and prioritized into an actionable development backlog by calculating their (Frequency) - (how many users faced it), (Impact) - (if it blocked task completion), and (Persistence) - (if it remained a recurring obstacle).
+### 1. Evaluating the Three Usability Pillars
+Because a medical app needs to work perfectly under pressure, I tracked how test users interacted with the layout across three main areas:
+* **Effectiveness (Task Success):** Watched where users got stuck to ensure the interface layout actively prevents confusing navigation errors.
+* **Efficiency (Speed & Flow):** Measured the number of taps and time required to complete critical tasks—like finding a clinic—and streamlined the layout to save users time.
+* **Satisfaction (User Comfort):** Gathered honest user feedback after testing to gauge overall trust, visual clarity, and ease of use.
+
+### 2. Designing Unbiased User Surveys
+To make sure the feedback data from my surveys was accurate and clean, I wrote the questionnaires using balanced **Likert Scales** and avoided common survey mistakes:
+* **Separating Combined Questions:** Kept questions focused on one single detail at a time (e.g., asking *only* about text size or *only* about button placement, instead of combining them and confusing the data).
+* **Neutral Wording:** Drafted prompts carefully so they wouldn't accidentally lead users toward a positive or negative answer, ensuring completely honest feedback.
+* **Balancing Numbers with Stories:** Paired quantitative data (like task success rates) with qualitative observations (like watching a user hesitate before clicking) to get the full story behind user behavior.
+
+---
+
+## 🛠️ Research Steps & Project Lifecycle
+The testing and research for the C.O.R.E. App followed a structured product design timeline:
+
+1.  **Setting Objectives:** Mapped out the user journey and identified critical areas where high-stress patients might experience friction.
+2.  **Screening & Planning:** Drafted participant criteria and built step-by-step navigation tasks for the test sessions.
+3.  **Moderated Testing:** Ran live user sessions using the **Think-Aloud Protocol**, letting users talk through their thought processes out loud while navigating the app without any outside hints.
+4.  **Prioritizing Fixes (Severity Mapping):** Sorted design issues into a clear to-do list based on **Frequency** (how many people hit the issue), **Impact** (if it blocked them from finishing the task), and **Persistence** (if it kept throwing them off).
